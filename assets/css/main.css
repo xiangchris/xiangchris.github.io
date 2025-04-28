@@ -3807,10 +3807,10 @@ body.is-preload #header.alt .logo {
 
 #main header.major h2:after {
 	background-color: #dddddd;
-	background-image: -moz-linear-gradient(90deg, #5757FF, #E173EB, #FF7373, #FFCB7D);
-	background-image: -webkit-linear-gradient(90deg, #5757FF, #E173EB, #FF7373, #FFCB7D);
-	background-image: -ms-linear-gradient(90deg, #5757FF, #E173EB, #FF7373, #FFCB7D);
-	background-image: linear-gradient(90deg, #5757FF, #E173EB, #FF7373, #FFCB7D);
+	background-image: -moz-linear-gradient(90deg, #5757FF, #E173EB 60%, #FF7373);
+	background-image: -webkit-linear-gradient(90deg, #5757FF, #E173EB 60%, #FF7373);
+	background-image: -ms-linear-gradient(90deg, #5757FF, #E173EB 60%, #FF7373);
+	background-image: linear-gradient(90deg, #5757FF, #E173EB 60%, #FF7373);
 }
 
 #main table tbody tr {
